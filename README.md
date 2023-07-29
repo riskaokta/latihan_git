@@ -1,2 +1,3 @@
 # latihan_git
-repository latihan git matakuliah pemrograman mobile 2
+
+Repository latihan git matakuliah Pemrograman Mobile 2
